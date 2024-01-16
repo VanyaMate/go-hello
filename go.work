@@ -3,4 +3,5 @@ go 1.21.6
 use (
 	./example/hello
 	./reverse-hello
+	./web-service-gin
 )
